@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+- Live Site URL: [](https://gonzalo-gauna-card-practice1.netlify.app/)
 
 ## My process
 
@@ -41,30 +41,10 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 ### Useful resources
 
-- [Example resource 1](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me reinforce concepts of Flexbox.
-- [Example resource 2](https://css-tricks.com/snippets/css/complete-guide-grid/) - This helped me reinforce concepts of Grid.
+- [A Complete Guide to Flexbox - CSS-TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me reinforce concepts of Flexbox.
+- [A Complete Guide to Grid - CSS-TRICKS](https://css-tricks.com/snippets/css/complete-guide-grid/) - This helped me reinforce concepts of Grid.
 
 ## Author
 
